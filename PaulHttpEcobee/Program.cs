@@ -6,7 +6,7 @@ namespace PaulHttpEcobee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from paul!");
+            Console.WriteLine("Hello World from paul new!");
         }
     }
 }
